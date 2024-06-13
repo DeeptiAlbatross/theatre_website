@@ -13,7 +13,7 @@ const director = () => {
             <div className="h-1/2  w-[2100px] pb-28">
               <img
                 className="h-[400px] w-full border-r-8 border-b-8 py-3 px-4  border-red-400"
-                src={Director}
+                src="https://img.freepik.com/premium-vector/businessman-avatar-illustration-cartoon-user-portrait-user-profile-icon_118339-4382.jpg"
                 alt=""
               ></img>
             </div>
@@ -26,7 +26,7 @@ const director = () => {
             </div>
             <div className=" flex items-center border-b-2 w-32 ml-14 p-1 border-red-950">
             </div>
-            
+
                 </div>
               
               <p className="text-lg text-black leading-loose">

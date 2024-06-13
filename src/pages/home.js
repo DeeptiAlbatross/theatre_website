@@ -5,7 +5,7 @@ import Vision from "../components/ourVision";
 import Director from "../components/director";
 import Gallery from "../components/gallery";
 import Contact from "../components/contact";
-import Footer from "../components/footer";
+// import Footer from "../components/footer";
 
 function Home() {
   return (
@@ -17,7 +17,7 @@ function Home() {
      <Director/>
      <Gallery/>
      <Contact/>
-     <Footer/>
+     {/* <Footer/> */}
     </div>
   );
 }
