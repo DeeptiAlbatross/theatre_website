@@ -12,7 +12,7 @@ const Header = () => {
 
   return (
     <div>
-      <header className="w-full bg-transparent bg-black text-sm py-4 fixed top-0 z-40">
+      <header className="w-full  text-sm py-4 fixed top-0 z-40  bg-black opacity-75">
         <nav className="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
           <div className="flex items-center justify-between">
             <img className='h-[60px] w-[60px] mix-blend-screen' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROODJw3XJUrNG_RU-pYEXaLon3Mtu-bT7bIw&s' alt='#'></img>

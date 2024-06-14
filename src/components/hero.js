@@ -4,7 +4,7 @@ const hero = () => {
   return (
     <div>
       <div
-        className="relative bg-cover "
+        className="relative bg-cover pb-10 "
         style={{
           backgroundImage:
             "url(https://cdn.create.vista.com/api/media/small/454847026/stock-photo-red-curtain-theatre-background)",
@@ -35,7 +35,6 @@ const hero = () => {
           ></img>
         </div>
       </div>
-      {/* <img className=""  src="https://motionarray.imgix.net/preview-902643-6VSxG8mRQNW68Njh-large.jpg?w=660&q=60&fit=max&auto=format"></img> */}
     </div>
   );
 };
