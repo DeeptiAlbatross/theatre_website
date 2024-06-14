@@ -5,19 +5,17 @@ import Vision from "../components/ourVision";
 import Director from "../components/director";
 import Gallery from "../components/gallery";
 import Contact from "../components/contact";
-// import Footer from "../components/footer";
 
 function Home() {
   return (
     <div>
      <Header/>
-     <Hero/>
+     {/* <Hero/> */}
      <About/>
-     <Vision/>
+     {/* <Vision/> */}
      <Director/>
      <Gallery/>
-     <Contact/>
-     {/* <Footer/> */}
+     {/* <Contact/> */}
     </div>
   );
 }
