@@ -10,7 +10,7 @@ function Home() {
   return (
     <div>
      <Header/>
-     {/* <Hero/> */}
+     <Hero/>
      <About/>
      {/* <Vision/> */}
      <Director/>

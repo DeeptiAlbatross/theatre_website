@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <div className="flex items-center justify-center md:pt-20 pt-4 h-[400px]  my-20 w-[90%] mx-auto">
+      <div id="about" className="flex items-center justify-center md:pt-20 pt-4 h-[400px]  my-96 w-[90%] mx-auto">
         <div className="flex-col items-center justify-between mx-4 flex md:flex-row md:mx-10">
           <div className="">
             <img
