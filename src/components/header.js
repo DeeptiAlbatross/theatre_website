@@ -29,7 +29,7 @@ const Header = () => {
           <div id="navbar-image-and-text-1" className={`transition-all duration-300 ${isMenuOpen ? "block" : "hidden"} sm:block sm:flex sm:items-center sm:justify-end`}>
             <div className="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5">
               <span className="text-lg text-yellow-500" onClick={() => scrollToTarget("Home")}>Home</span>
-              <span className="text-lg text-white hover:text-yellow-600" onClick={() => scrollToTarget("about")}>About</span>
+              <span className="text-lg text-white hover:text-yellow-600" onClick={() => scrollToTarget("about")}>About Us</span>
               <span className="text-lg text-white hover:text-yellow-600" onClick={() => scrollToTarget("Vision")}>Vision</span>
               <span className="text-lg text-white hover:text-yellow-600" onClick={() => scrollToTarget("show")}>Show</span>
               <span className="text-lg text-white hover:text-yellow-600" onClick={() => scrollToTarget("contact")}>Contact</span>
